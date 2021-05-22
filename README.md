@@ -367,9 +367,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
     - [ ] Online Courses:
         - [ ] [Core Hash Tables (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-hash-tables-m7UuP)
-        - [ ] [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/4)
-        - [ ] [Phone Book Problem (video)](https://www.coursera.org/lecture/data-structures/phone-book-problem-NYZZP)
-        - [ ] distributed hash tables:
+        - [X] [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/4)
+        - [X] [Phone Book Problem (video)](https://www.coursera.org/lecture/data-structures/phone-book-problem-NYZZP)
+        - [X] distributed hash tables:
             - [Instant Uploads And Storage Optimization In Dropbox (video)](https://www.coursera.org/lecture/data-structures/instant-uploads-and-storage-optimization-in-dropbox-DvaIb)
             - [Distributed Hash Tables (video)](https://www.coursera.org/lecture/data-structures/distributed-hash-tables-tvH8H)
 
@@ -385,7 +385,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### Binary search
     - [X] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
     - [X] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
-    - [ ] [detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
+    - [ ] [Detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
     - [X] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
