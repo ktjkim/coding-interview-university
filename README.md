@@ -424,11 +424,11 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - basic tree construction
     - traversal
     - manipulation algorithms
-    - [ ] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://www.youtube.com/watch?v=uWL6FJhq5fM)
+    - [X] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://www.youtube.com/watch?v=uWL6FJhq5fM)
         - BFS notes:
            - level order (BFS, using queue)
            - time complexity: O(n)
-           - space complexity: best: O(1), worst: O(n/2)=O(n)
+           - space complexity: best: O(1) if we only have one element on the queue at a time (lopsided tree), worst: O(n/2)=O(n) if we have a balanced tree
         - DFS notes:
             - time complexity: O(n)
             - space complexity:
