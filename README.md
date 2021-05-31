@@ -385,7 +385,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### Binary search
     - [X] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
     - [X] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
-    - [ ] [Detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
+    - [X] [Detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
     - [X] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
@@ -646,6 +646,9 @@ Graphs can be used to represent many problems in computer science, so this secti
     - You probably won't see any dynamic programming problems in your interview, but it's worth being able to recognize a problem as being a candidate for dynamic programming.
     - This subject can be pretty difficult, as each DP soluble problem must be defined as a recursion relation, and coming up with it can be tricky.
     - I suggest looking at many examples of DP problems until you have a solid understanding of the pattern involved.
+    - [ ] https://leetcode.com/discuss/study-guide/458695/dynamic-programming-patterns
+    - [ ] https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems
+    - [ ] https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-Leetcode
     - [ ] Videos:
         - the Skiena videos can be hard to follow since he sometimes uses the whiteboard, which is too small to see
         - [ ] [Skiena: CSE373 2012 - Lecture 19 - Introduction to Dynamic Programming (video)](https://youtu.be/Qc2ieXRgR0k?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&t=1718)
