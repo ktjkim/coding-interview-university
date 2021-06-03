@@ -515,7 +515,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - For heapsort, see Heap data structure above. Heap sort is great, but not stable. Imagine a min heap which has data entered in the format 3 1 2a 2b (3 levels); heap sort will convert this first to 1 3 2a 2b then to 1 2b 2a 3 
 
 - [ ] [Sedgewick - Mergesort (5 videos)](https://www.coursera.org/learn/algorithms-part1/home/week/3)
-    - [ ] [1. Mergesort](https://www.coursera.org/learn/algorithms-part1/lecture/ARWDq/mergesort)
+    - [X] [1. Mergesort](https://www.coursera.org/learn/algorithms-part1/lecture/ARWDq/mergesort)
+        - Improvements in Mergesort: 1. Use insertion sort for the smallest (< 5) sub-arrays since merge sort is too complicated for tiny arrays 2. Add one line to stop the sort if array already sorted 
     - [ ] [2. Bottom up Mergesort](https://www.coursera.org/learn/algorithms-part1/lecture/PWNEl/bottom-up-mergesort)
     - [ ] [3. Sorting Complexity](https://www.coursera.org/learn/algorithms-part1/lecture/xAltF/sorting-complexity)
     - [ ] [4. Comparators](https://www.coursera.org/learn/algorithms-part1/lecture/9FYhS/comparators)
