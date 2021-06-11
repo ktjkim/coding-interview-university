@@ -615,7 +615,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] [Aduni: Graph Alg. IV: Intro to geometric algorithms - Lecture 9 (video)](https://www.youtube.com/watch?v=XIAQRlNkJAw&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=9)
     - [ ] [CS 61B 2014: Weighted graphs (video)](https://archive.org/details/ucberkeley_webcast_zFbq8vOZ_0k)
     - [ ] [Greedy Algorithms: Minimum Spanning Tree (video)](https://www.youtube.com/watch?v=tKwnms5iRBU&index=16&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-    - [ ] [Strongly Connected Components Kosaraju's Algorithm Graph Algorithm (video)](https://www.youtube.com/watch?v=RpgcYiky7uw)
+    - [X] [Strongly Connected Components Kosaraju's Algorithm Graph Algorithm (video)](https://www.youtube.com/watch?v=RpgcYiky7uw)
 
 - Full Coursera Course:
     - [ ] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
@@ -633,7 +633,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] check for cycle (needed for topological sort, since we'll check for cycle before starting)
         - [ ] topological sort
         - [ ] count connected components in a graph
-        - [ ] list strongly connected components
+        - [ ] list strongly connected components (Kosaraju)
         - [ ] check for bipartite graph
 
 ## Even More Knowledge
