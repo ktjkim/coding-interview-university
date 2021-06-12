@@ -627,6 +627,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [X] BFS with adjacency matrix
     - [X] single-source shortest path (Dijkstra)
     - [X] minimum spanning tree (Kruskal)
+    - connected components in undirected graph: BFS on each vertex 
     - DFS-based algorithms (see Aduni videos above):
         - [ ] check for cycle (needed for topological sort, since we'll check for cycle before starting)
         - [ ] topological sort
