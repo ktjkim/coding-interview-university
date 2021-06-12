@@ -633,7 +633,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] topological sort
         - [ ] count connected components in a graph
         - [ ] list strongly connected components (Kosaraju)
-        - [ ] check for bipartite graph
+        - [ ] check for bipartite graph (using BFS again)
 
 ## Even More Knowledge
 
