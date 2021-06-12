@@ -589,6 +589,8 @@ Graphs can be used to represent many problems in computer science, so this secti
     - When asked a question, look for a graph-based solution first, then move on if none
     - Finding an articulation vertex (vertex s.t. if it didn't exist graph wouldn't be connected): try deleting each vertex one by one and run DFS to see if graph ends up being disconnected → O(n(m+n))
         - better algorithm: articulation vertex iff v is not a leaf and some subtree of v has no back edge incident until a proper ancestor of v → O(n+m)
+    - Prim: choose a random vertex and add whichever edge is the smallest among the adjacent edges
+    - Kruskal: order the edges in increasing order and add whichever next edge that doesn't form a cycle
 
 - Types of edges for (x, y)
     - Tree edge: we find the edge during traversal of the graph
