@@ -594,7 +594,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - Forward edge: y is an ancestor of x 
     - Cross edge: y is neither an ancestor or descendant of x
     - BFS on undirected graph: every edge is a tree edge or a cross edge
-    - DFS on undirected graph: every edge is a tree edge or a back edge
+    - DFS on undirected graph: every edge is a tree edge or a back edge (we MUST explore all edges in a sub-tree before going back)
         - suppose we had a forward edge: it would in fact be a back edge since we explore the sub-tree until there is nothing left
         - suppose we had a cross edge: it would in fact be a tree edge since we MUST have had explored it
 
@@ -641,6 +641,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - connected components in undirected graph: BFS on each vertex 
     - DFS-based algorithms (see Aduni videos above):
         - [ ] check for cycle (needed for topological sort, since we'll check for cycle before starting)
+        - [ ] checking for cycle in undirected graph ≡ finding a back edge
         - [ ] topological sort
         - [ ] count connected components in a graph
         - [ ] list strongly connected components (Kosaraju)
