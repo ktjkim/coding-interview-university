@@ -587,8 +587,8 @@ Graphs can be used to represent many problems in computer science, so this secti
     - Familiarize yourself with each representation and its pros & cons
     - BFS and DFS - know their computational complexity, their trade offs, and how to implement them in real code
     - When asked a question, look for a graph-based solution first, then move on if none
-    - Finding an articulation vertex (vertex s.t. if it didn't exist graph wouldn't be connected): try deleting each vertex one by one and run DFS to see if graph ends up being disconnected
-        - better algorithm: articulation vertex iff v is not a leaf and some subtree of v has no back edge incident until a proper ancestor of v
+    - Finding an articulation vertex (vertex s.t. if it didn't exist graph wouldn't be connected): try deleting each vertex one by one and run DFS to see if graph ends up being disconnected → O(n(m+n))
+        - better algorithm: articulation vertex iff v is not a leaf and some subtree of v has no back edge incident until a proper ancestor of v → O(n+m)
 
 - Types of edges for (x, y)
     - Tree edge: we find the edge during traversal of the graph
