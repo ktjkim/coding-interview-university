@@ -594,6 +594,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - Forward edge: y is an ancestor of x 
     - Cross edge: y is neither an ancestor or descendant of x
     - BFS on undirected graph: every edge is a tree edge or a cross edge
+    - DFS on undirected graph: every edge is a tree edge or a back edge
 
 - [X] MIT(videos):
     - [X] [Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
