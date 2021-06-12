@@ -588,10 +588,17 @@ Graphs can be used to represent many problems in computer science, so this secti
     - BFS and DFS - know their computational complexity, their trade offs, and how to implement them in real code
     - When asked a question, look for a graph-based solution first, then move on if none
 
+- Types of edges for (x, y)
+    - Tree edge: we find the edge during traversal of the graph
+    - Back edge: y is an ancestor of x
+    - Forward edge: y is an ancestor of x 
+    - Cross edge: y is neither an ancestor or descendant of x
+    - BFS on undirected graph: every edge is a tree edge or a cross edge
+
 - [X] MIT(videos):
     - [X] [Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
     - [X] [Depth-First Search](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
-    - [ ] Why can't an undirected graph contain a forward edge or a cross edge 
+    - [ ] Why can't an undirected graph contain a forward edge or a cross edge: 
 
 - [ ] Skiena Lectures - great intro:
     - [X] [CSE373 2012 - Lecture 11 - Graph Data Structures (video)](https://www.youtube.com/watch?v=OiXxhDrFruw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=11)
