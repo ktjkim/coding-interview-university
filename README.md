@@ -640,7 +640,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - connected components in undirected graph: BFS on each vertex 
     - DFS-based algorithms (see Aduni videos above):
         - [ ] check for cycle (needed for topological sort, since we'll check for cycle before starting)
-        - [ ] checking for cycle in undirected graph ≡ finding a back edge
+        - [ ] checking for cycle in undirected graph ≡ finding a back edge (since for an undirected graph each edge is checked twice, this is equivalent to checking whether given edge (x, y) do we have that the parent of x is y)
         - [ ] topological sort
         - [ ] count connected components in a graph
         - [ ] list strongly connected components (Kosaraju)
