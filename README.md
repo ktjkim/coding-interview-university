@@ -919,7 +919,7 @@ Supplemental:
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
 
-- [ ] [Leetcode Questions] (https://betterprogramming.pub/the-software-engineering-study-guide-for-interviews-53b42d82deb0)
+- [ ] [Leetcode Questions](https://betterprogramming.pub/the-software-engineering-study-guide-for-interviews-53b42d82deb0)
 
 See [Book List above](#book-list)
 
