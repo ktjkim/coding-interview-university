@@ -648,7 +648,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] topological sort (DAGs have at least one topological sort; only DAGs have a topological sort)
         - [X] count connected components in a graph
         - [ ] list strongly connected components (Kosaraju)
-        - [ ] check for bipartite graph (using BFS again)
+        - [X] check for bipartite graph (using BFS again)
 
 ## Even More Knowledge
 
