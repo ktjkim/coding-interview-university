@@ -643,11 +643,11 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [X] minimum spanning tree (Kruskal)
     - connected components in undirected graph: BFS on each vertex 
     - DFS-based algorithms (see Aduni videos above):
-        - [ ] check for cycle (needed for topological sort, since we'll check for cycle before starting)
-        - [ ] checking for cycle in undirected graph ≡ finding a back edge (since for an undirected graph each edge is checked twice, this is equivalent to checking whether given edge (x, y) do we have that the parent of x is y)
+        - [ ] check for cycle in undirected graph (i.e. finding a back edge)
+        - [ ] check for cycle in directed graph (needed for topological sort)
         - [ ] topological sort (DAGs have at least one topological sort; only DAGs have a topological sort)
-        - [X] count connected components in a graph
         - [ ] list strongly connected components (Kosaraju)
+        - [X] count connected components in a graph
         - [X] check for bipartite graph (using BFS again)
 
 ## Even More Knowledge
