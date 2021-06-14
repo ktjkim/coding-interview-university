@@ -696,7 +696,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [X] SOLID OOP Principles: [SOLID Principles (video)](https://www.youtube.com/playlist?list=PL4CE9F710017EA77A)
 
 - ### Design patterns
-    - [ ] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
+    - [X] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
     - [ ] Learn these patterns:
         - [ ] strategy
         - [ ] singleton
