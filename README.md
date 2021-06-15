@@ -620,7 +620,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - DFS-based algorithms (see Aduni videos above):
         - [X] check for cycle in undirected graph (i.e. finding a back edge)
         - [X] check for cycle in directed graph (needed for topological sort)
-        - [ ] topological sort (DAGs have at least one topological sort; only DAGs have a topological sort)
+        - [x] topological sort (DAGs have at least one topological sort; only DAGs have a topological sort)
         - [ ] list strongly connected components (Kosaraju)
         - [X] count connected components in a graph
         - [X] check for bipartite graph (using BFS again)
