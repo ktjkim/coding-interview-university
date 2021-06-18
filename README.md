@@ -642,7 +642,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - You probably won't see any dynamic programming problems in your interview, but it's worth being able to recognize a problem as being a candidate for dynamic programming.
     - This subject can be pretty difficult, as each DP soluble problem must be defined as a recursion relation, and coming up with it can be tricky.
     - I suggest looking at many examples of DP problems until you have a solid understanding of the pattern involved.
-    - [ ] https://leetcode.com/discuss/study-guide/458695/dynamic-programming-patterns
+    - [x] https://leetcode.com/discuss/study-guide/458695/dynamic-programming-patterns
     - [ ] https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems
     - [ ] https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-Leetcode
     - [ ] Videos:
